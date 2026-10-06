@@ -5,25 +5,13 @@ A simple interactive Python console bot that greets you, guesses your age using 
 ## Prerequisites
 
 * Python 3.8 or higher installed on your system.
+> **Note:** The included virtual environment configuration targets macOS and Linux. If you want to run this project on Windows, you must create a new local virtual environment first.
 
 ## Setup & Running
 
 ### 1. Activate the Virtual Environment
 
 Before running the script, activate the project's virtual environment:
-
-* **Windows:**
-  ```cmd
-  .venv\Scripts\activate
-
-```
-
-* **Windows (PowerShell):**
-```powershell
-.venv\Scripts\Activate.ps1
-
-```
-
 
 * **macOS / Linux:**
 ```bash
